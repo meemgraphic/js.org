@@ -1,3 +1,4 @@
+"meemgraphics": "mazinmz.github.io"
 /*
  ***** ACTIVE SUBDOMAINS
  * ***********************
